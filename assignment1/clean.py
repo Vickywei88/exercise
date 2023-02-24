@@ -1,4 +1,3 @@
-import pandas as pd
 
 def clean(input_file1, input_file2):
     df1 = pd.read_csv(input_file1)
